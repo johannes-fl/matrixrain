@@ -1,0 +1,15 @@
+{
+  "name": "matrix-rain",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "description": "Vanilla JS Matrix Rain with Canvas",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "Yo-Fly",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}
